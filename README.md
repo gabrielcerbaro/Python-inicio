@@ -4,7 +4,26 @@
 </p>
 
 <h1 align="center">🐍 Curso Python 3+ Completo</h1>
-<h3 align="center">PySide6 • Django • Selenium • Regex • Testes • TDD • POO • Design Patterns • Algoritmos</h3>
+
+<!-- Status do Curso -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3%2B-blue?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Status-Em%20Andamento-yellow">
+  <img src="https://img.shields.io/badge/Aulas-745%2B-orange">
+  <img src="https://img.shields.io/badge/Projetos%20Reais-Sim-brightgreen">
+  <img src="https://img.shields.io/badge/Linguagem-Python3-blue">
+</p>
+
+<!-- Tecnologias Envolvidas -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Django-Framework-green?logo=django" />
+  <img src="https://img.shields.io/badge/Selenium-Automação-orange?logo=selenium" />
+  <img src="https://img.shields.io/badge/PySide6-UI-ff69b4?logo=qt" />
+  <img src="https://img.shields.io/badge/SQLite-DB-blue?logo=sqlite" />
+  <img src="https://img.shields.io/badge/MySQL-DB-blue?logo=mysql" />
+  <img src="https://img.shields.io/badge/TDD-Testes-blueviolet" />
+</p>
 
 ---
 
@@ -26,16 +45,6 @@
     </td>
   </tr>
 </table>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3%2B-blue?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Status-Em%20Andamento-yellow">
-  <img src="https://img.shields.io/badge/Aulas-745%2B-orange">
-  <img src="https://img.shields.io/badge/Projetos%20Reais-Sim-brightgreen">
-  <img src="https://img.shields.io/badge/Linguagem-Python3-blue">
-</p>
 
 ---
 
@@ -96,31 +105,14 @@ São **+140 horas de conteúdo** e **745+ aulas** com diversos módulos, bibliot
 
 ---
 
-## 📌 Status do Curso
-- **Progresso:** Em andamento ⏳  
-- **Total de aulas:** 745+  
-- **Carga horária:** +140 horas  
-- **Projetos concluídos:** Em evolução 🚀  
-
----
-
 ## 📎 Links Importantes
 - [📌 Curso Original](https://www.udemy.com/course/python-3-do-zero-ao-avancado/)
-- [📂 Meu GitHub](https://github.com/gabrielcerbaro)
-- [📧 Contato](mailto:gabriel.cerbaro@outlook.com)
 
 ---
 
-## 🛠 Tecnologias Envolvidas
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" />
-  <img src="https://img.shields.io/badge/Django-Framework-green?logo=django" />
-  <img src="https://img.shields.io/badge/Selenium-Automação-orange?logo=selenium" />
-  <img src="https://img.shields.io/badge/PySide6-UI-ff69b4?logo=qt" />
-  <img src="https://img.shields.io/badge/SQLite-DB-blue?logo=sqlite" />
-  <img src="https://img.shields.io/badge/MySQL-DB-blue?logo=mysql" />
-  <img src="https://img.shields.io/badge/TDD-Testes-blueviolet" />
-</p>
+## 📌 Autor
+**Gabriel Cerbaro**  
+🔗 [LinkedIn](https://linkedin.com/in/gabriel-cerbaro-4703b4239)  
 
 ---
 <p align="center">_"Aprender Python é abrir portas para o futuro. Cada projeto é um passo em direção à excelência."_ 🚀</p>
