@@ -128,7 +128,8 @@ Este é um **curso completo e constantemente atualizado** que ensina **Python 3+
 ---
 
 <p align="center">
-  <a href="https://github.com/gabrielcerbaro" target="_blank">
-    <img src="https://img.shields.io/badge/⬆️ Voltar ao topo-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <a href="#" title="Voltar ao topo">
+    <img src="https://img.shields.io/badge/⬆️ Voltar%20ao%20topo-blue?style=for-the-badge&logo=python&logoColor=white" />
   </a>
 </p>
+
