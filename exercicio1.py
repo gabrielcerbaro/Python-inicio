@@ -1,3 +1,4 @@
+# Resumo: Lê nome e idade, valida campos vazios e, se válidos, exibe informações: nome invertido, quantidade de caracteres, primeira/última letra e se há espaços.
 nome = input('Digite seu nome: ')
 idade = input('Digite sua idade: ')
 

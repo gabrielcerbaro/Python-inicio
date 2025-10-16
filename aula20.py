@@ -11,6 +11,7 @@
 
 
 entrada = input('[E]ntrar [S]air: ')
+# Resumo: Mostra o uso do operador 'and' para autenticação simples e demonstra a avaliação de curto-circuito em expressões booleanas.
 senha_digitada = input('Senha: ')
 
 senha_permitida = '123456'

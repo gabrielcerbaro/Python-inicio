@@ -1,3 +1,4 @@
+# Resumo: Usa o operador "in" para verificar se um texto digitado está presente no nome informado e exibe a mensagem correspondente.
 # nome = 'Gabriel'
 # # print(nome[2])
 # # print(nome[-4])

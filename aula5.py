@@ -4,6 +4,7 @@
 # positivo ou negativo. int sem sinal é considerado
 # positivo.
 print(11) # int
+# Resumo: Mostra exemplos de inteiros e floats e imprime seus tipos usando type().
 print(-11) # int
 print(0)
 

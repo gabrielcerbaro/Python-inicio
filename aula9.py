@@ -1,3 +1,4 @@
+# Resumo: Declara variáveis pessoais, calcula ano de nascimento, verifica maioridade e exibe as informações formatadas.
 nome = 'Gabriel'
 sobrenome = 'Cerbaro'
 idade = 23

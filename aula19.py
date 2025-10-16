@@ -1,3 +1,4 @@
+# Resumo: Lê dois valores, compara-os e informa qual é maior ou se são iguais.
 primeiro_valor = input('Digete um valor: ')
 segundo_valor = input('Digete um valor: ')
 

@@ -9,6 +9,7 @@ OP      Significado         Exemplo (True)
 !=      diferente           'a' != 'b'
 """
 maior = 2 > 1
+# Resumo: Demonstra variáveis booleanas resultantes de comparações (> >= < <= == !=).
 maior_ou_igual = 2 >= 2
 menor = 1 < 2
 menor_ou_igual = 2 <= 2

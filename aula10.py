@@ -23,4 +23,5 @@ print(10 % 8 == 0)
 print(16 % 8 == 0)
 print(10 % 2 == 0)
 print(15 % 2 == 0)
+# Resumo: Operações aritméticas e verificações de divisibilidade (paridade) com o operador %.
 print(16 % 2 == 0)

@@ -7,6 +7,7 @@ Strings são textos que estão dentro de aspas
 
 """
 print(1234)
+# Resumo: Explica strings e aspas; demonstra uso de aspas simples/duplas, caracteres de escape e raw string em prints.
 
 # Aspas simples
 print('Gabriel')

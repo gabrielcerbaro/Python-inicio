@@ -1,3 +1,4 @@
+# Resumo: Simula um radar de velocidade com posição e alcance; verifica passagem pelo radar e se deve multar, exibindo mensagens conforme as condições.
 velocidade = 61
 local_carro = 100
 

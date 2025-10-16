@@ -1,3 +1,4 @@
+# Resumo: Calcula o IMC a partir de peso e altura e imprime o resultado formatado com 2 casas decimais usando f-string.
 nome = 'Gabriel Cerbaro'
 altura = 1.86
 peso = 124

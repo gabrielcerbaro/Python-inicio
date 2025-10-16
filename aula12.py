@@ -1,3 +1,4 @@
+# Resumo: Demonstra precedência de operadores e uso de int() para arredondamento antes de exponenciação.
 # 1. (n + n)
 # 2. **
 # 3. * / // %

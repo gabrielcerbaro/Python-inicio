@@ -1,3 +1,4 @@
+# Resumo: Calcula e exibe o IMC usando print com múltiplos argumentos e arredondamento via round().
 nome = 'Gabriel Cerbaro'
 altura = 1.86
 peso = 124

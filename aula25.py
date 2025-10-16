@@ -1,3 +1,4 @@
+# Resumo: Demonstra formatação com f-strings: alinhamento (direita e centro), casas decimais e formatação hexadecimal com preenchimento.
 variavel = 'ABC'
 
 print (f'{variavel}')

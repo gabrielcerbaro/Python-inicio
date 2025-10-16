@@ -12,6 +12,7 @@
 # print(nome_completo, soma_dois_mais_dois)
 
 nome_completo = 'Gabriel Cerbaro'
+# Resumo: Exemplo de variáveis simples e expressão booleana para maioridade, com impressão dos resultados.
 idade = 23
 maior_de_idade = idade >= 18
 print('Nome:', nome_completo, 'Idade:', idade)

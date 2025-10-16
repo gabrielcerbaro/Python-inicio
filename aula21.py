@@ -10,6 +10,7 @@
 # usado para representar um não valor
 
 entrada = input('[E]ntrar [S]air: ')
+# Resumo: Demonstra operadores lógicos (or/and) em um fluxo de autenticação simples e usa curto-circuito com 'or' para senha padrão.
 senha_digitada = input('Senha: ')
 
 senha_permitida = '123456'

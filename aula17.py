@@ -16,6 +16,7 @@ else:
 # print('FORA DOS BLOCOS')
 
 condicao1 = False
+# Resumo: Demonstra uso de if/elif/else com um prompt de "entrar/sair" e um segundo bloco com múltiplas condições (apenas um deles executa).
 condicao2 = True
 condicao3 = False
 condicao4 = False

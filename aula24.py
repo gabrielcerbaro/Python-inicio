@@ -6,6 +6,7 @@ f - float
 x e X - Hexadecimal (ABCDEF0123456789)
 """
 nome = 'Gabriel'
+# Resumo: Interpolação de strings com operador %, incluindo formatação de float e exibição de hexadecimal com preenchimento.
 preco = 1000.95897643
 variavel = '%s, o preço é R$%.2f' % (nome, preco)
 print(variavel)

@@ -1,3 +1,4 @@
+# Resumo: Exemplo de formatação de strings com str.format usando chaves nomeadas e formatando float com 2 casas.
 a = 'AAAAA'
 b = 'BBBBBB'
 c = 1.1

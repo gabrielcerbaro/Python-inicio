@@ -1,3 +1,4 @@
+# Resumo: Lê nome e idade, calcula ano de nascimento e faz uma pergunta; responde diferente conforme 'sim' (case-insensitive).
 nome = input('Qual seu nome? ')
 idade = int(input('Qual sua idade? '))
 ano_nasc = 2025 - idade
