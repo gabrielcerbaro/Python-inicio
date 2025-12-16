@@ -22,7 +22,7 @@
     </td>
     <td align="left" style="padding-left: 25px;">
       <h3>Olá, eu sou <strong>Gabriel Cerbaro</strong> 👋</h3>
-      <p>📈 Estudante de Contabilidade | Supervisor de Logística | Futuro Analista de Dados & BI</p>
+      <p>📈 Estudante de Contabilidade | Supervisor de Logística | Futuro Full-Stack (JS)</p>
       <p>
         🌐 <a href="https://www.linkedin.com/in/gabriel-cerbaro-4703b4239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?logo=linkedin" /></a>  
         💻 <a href="https://github.com/gabrielcerbaro" target="_blank"><img src="https://img.shields.io/badge/GitHub-Perfil-black?logo=github" /></a>  
